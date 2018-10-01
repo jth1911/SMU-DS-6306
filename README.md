@@ -5,7 +5,7 @@ Report the top 10 Female Names over the years 2015 and 2016.
 - Please refer to Jharding_MSDS6306_Unit5_HW.RMD located in the code folder to determine how the top 10 female first names were determined from the data provide.  
 - Top 10 Femal First Names are stored in the top10femaleNames.csv file located in the data folder. 
 
-##Top 10 Female First Name Data
+## Top 10 Female First Name Data
 
 |  Attribute  | Description |
 | -------------|-----------------|

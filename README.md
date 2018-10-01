@@ -23,7 +23,7 @@ Refer to ./data/Jharding_MSDS6306_Unit5_HW.RMD
 
 ## Versioning
 
-**v1.0
+**v1.0**
 
 ## Authors
 

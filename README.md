@@ -1,88 +1,32 @@
-# SMU MSDS 6306 - Doing Data Sciene
+# Top 10 Female First Names
 
-Project to store homework and case study assignments associated with course work at SMU. 
+Report the top 10 Female Names over the years 2015 and 2016.
+- Data files used: ![2015 First Names](./data/yob2015.txt), ![2016 First Names](./data/yob2016.txt) 
 
-## Getting Started
+Please refer to Jharding_MSDS6306_Unit5_HW.RMD located in the code folder to determine how the top 10 female first names were determined from the data provide.  
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.  
+Top 10 Femal First Names are stored in the top10femaleNames.csv file located in the data folder. 
 
-- Please proceed to homework forlder for futher instructions.
- 
-### Prerequisites
+**Top 10 Female First Name Data**
+|  Attribute  | Description |
+| -------------|-----------------|
+| FName | Childs first name |
+| Total | Total number of chidren with the name |
 
-Pending
-- 
+## Reproduction
 
-```
-Give examples
-```
+Refer to ./data/Jharding_MSDS6306_Unit5_HW.RMD
 
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Pending
-
-### Break down into end to end tests
-
-Pending
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Pending
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-Pending
 
 ## Contributing
 
-Pending
+**James Harding** - harding@smu.edu
 
 ## Versioning
 
-Pending
+**v1.0
 
 ## Authors
 
-* **James Harding** - *Initial work* - [GitHub](https://github.com/jth1911)
+**James Harding** - *Initial work* - [GitHub](https://github.com/jth1911)
  
-Pending: See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-Pending: This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
